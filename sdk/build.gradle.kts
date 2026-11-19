@@ -41,7 +41,9 @@ android {
 
 mavenPublishing {
     publishToMavenCentral(automaticRelease = false)
-    signAllPublications()
+    if (project.hasProperty("signing.keyId") || project.hasProperty("ORG_GRADLE_PROJECT_signingKeyId")) {
+        signAllPublications()
+    }
     coordinates("io.github.baishakhee93", "olchikikit-core", version.toString())
     pom {
         name.set("OlChikiKit")
