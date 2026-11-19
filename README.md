@@ -3,7 +3,6 @@
 **Author:** Baishakhee · **Repository:** https://github.com/baishakhee93/OlChikiKit  
 **Namespace:** `io.github.baishakhee93.olchikikit` · **License:** Apache-2.0
 
-Standalone **Kotlin Multiplatform** language SDK, separate from the ThinkIpySoft installable keyboard app (`com.thinkipysoft.olchickikit`).
 
 ## Modules
 
