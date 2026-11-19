@@ -1,0 +1,1002 @@
+[
+  {
+    "letter": "ᱩ",
+    "english": "One",
+    "hindi": "१",
+    "pronunciation": "one",
+    "example": "1 - एक",
+    "image": "num_1.png",
+    "value": 1,
+    "verified": false
+  },
+  {
+    "letter": "ᱢ",
+    "english": "Two",
+    "hindi": "२",
+    "pronunciation": "two",
+    "example": "2 - दो",
+    "image": "num_2.png",
+    "value": 2,
+    "verified": false
+  },
+  {
+    "letter": "ᱣ",
+    "english": "Three",
+    "hindi": "३",
+    "pronunciation": "three",
+    "example": "3 - तीन",
+    "image": "num_3.png",
+    "value": 3,
+    "verified": false
+  },
+  {
+    "letter": "ᱤ",
+    "english": "Four",
+    "hindi": "४",
+    "pronunciation": "four",
+    "example": "4 - चार",
+    "image": "num_4.png",
+    "value": 4,
+    "verified": false
+  },
+  {
+    "letter": "ᱥ",
+    "english": "Five",
+    "hindi": "५",
+    "pronunciation": "five",
+    "example": "5 - पांच",
+    "image": "num_5.png",
+    "value": 5,
+    "verified": false
+  },
+  {
+    "letter": "ᱦ",
+    "english": "Six",
+    "hindi": "६",
+    "pronunciation": "six",
+    "example": "6 - छह",
+    "image": "num_6.png",
+    "value": 6,
+    "verified": false
+  },
+  {
+    "letter": "ᱧ",
+    "english": "Seven",
+    "hindi": "७",
+    "pronunciation": "seven",
+    "example": "7 - सात",
+    "image": "num_7.png",
+    "value": 7,
+    "verified": false
+  },
+  {
+    "letter": "ᱨ",
+    "english": "Eight",
+    "hindi": "८",
+    "pronunciation": "eight",
+    "example": "8 - आठ",
+    "image": "num_8.png",
+    "value": 8,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱨ",
+    "english": "Nine",
+    "hindi": "९",
+    "pronunciation": "nine",
+    "example": "9 - नौ",
+    "image": "num_9.png",
+    "value": 9,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱦ",
+    "english": "Ten",
+    "hindi": "१०",
+    "pronunciation": "ten",
+    "example": "10 - दस",
+    "image": "num_10.png",
+    "value": 10,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱦᱩ",
+    "english": "Eleven",
+    "hindi": "११",
+    "pronunciation": "eleven",
+    "example": "11 - ग्यारह",
+    "image": "num_11.png",
+    "value": 11,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱦᱢ",
+    "english": "Twelve",
+    "hindi": "१२",
+    "pronunciation": "twelve",
+    "example": "12 - बारह",
+    "image": "num_12.png",
+    "value": 12,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱦᱣ",
+    "english": "Thirteen",
+    "hindi": "१३",
+    "pronunciation": "thirteen",
+    "example": "13 - तेरह",
+    "image": "num_13.png",
+    "value": 13,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱦᱤ",
+    "english": "Fourteen",
+    "hindi": "१४",
+    "pronunciation": "fourteen",
+    "example": "14 - चौदह",
+    "image": "num_14.png",
+    "value": 14,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱦᱥ",
+    "english": "Fifteen",
+    "hindi": "१５",
+    "pronunciation": "fifteen",
+    "example": "15 - पंद्रह",
+    "image": "num_15.png",
+    "value": 15,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱦᱦ",
+    "english": "Sixteen",
+    "hindi": "१６",
+    "pronunciation": "sixteen",
+    "example": "16 - सोलह",
+    "image": "num_16.png",
+    "value": 16,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱦᱧ",
+    "english": "Seventeen",
+    "hindi": "१７",
+    "pronunciation": "seventeen",
+    "example": "17 - सत्रह",
+    "image": "num_17.png",
+    "value": 17,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱦᱨ",
+    "english": "Eighteen",
+    "hindi": "१८",
+    "pronunciation": "eighteen",
+    "example": "18 - अठारह",
+    "image": "num_18.png",
+    "value": 18,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱦᱩᱨ",
+    "english": "Nineteen",
+    "hindi": "十九",
+    "pronunciation": "nineteen",
+    "example": "19 - उन्नीस",
+    "image": "num_19.png",
+    "value": 19,
+    "verified": false
+  },
+  {
+    "letter": "ᱢᱦ",
+    "english": "Twenty",
+    "hindi": "२०",
+    "pronunciation": "twenty",
+    "example": "20 - बीस",
+    "image": "num_20.png",
+    "value": 20,
+    "verified": false
+  },
+  {
+    "letter": "ᱢᱦᱩ",
+    "english": "Twenty-one",
+    "hindi": "२１",
+    "pronunciation": "twenty-one",
+    "example": "21 - इक्कीस",
+    "image": "num_21.png",
+    "value": 21,
+    "verified": false
+  },
+  {
+    "letter": "ᱢᱦᱢ",
+    "english": "Twenty-two",
+    "hindi": "２２",
+    "pronunciation": "twenty-two",
+    "example": "22 - बाईस",
+    "image": "num_22.png",
+    "value": 22,
+    "verified": false
+  },
+  {
+    "letter": "ᱢᱦᱣ",
+    "english": "Twenty-three",
+    "hindi": "２３",
+    "pronunciation": "twenty-three",
+    "example": "23 - तेईस",
+    "image": "num_23.png",
+    "value": 23,
+    "verified": false
+  },
+  {
+    "letter": "ᱢᱦᱤ",
+    "english": "Twenty-four",
+    "hindi": "２４",
+    "pronunciation": "twenty-four",
+    "example": "24 - चौबीस",
+    "image": "num_24.png",
+    "value": 24,
+    "verified": false
+  },
+  {
+    "letter": "ᱢᱦᱥ",
+    "english": "Twenty-five",
+    "hindi": "２５",
+    "pronunciation": "twenty-five",
+    "example": "25 - पच्चीस",
+    "image": "num_25.png",
+    "value": 25,
+    "verified": false
+  },
+  {
+    "letter": "ᱢᱦᱦ",
+    "english": "Twenty-six",
+    "hindi": "２６",
+    "pronunciation": "twenty-six",
+    "example": "26 - छब्बीस",
+    "image": "num_26.png",
+    "value": 26,
+    "verified": false
+  },
+  {
+    "letter": "ᱢᱦᱧ",
+    "english": "Twenty-seven",
+    "hindi": "２７",
+    "pronunciation": "twenty-seven",
+    "example": "27 - सत्ताईस",
+    "image": "num_27.png",
+    "value": 27,
+    "verified": false
+  },
+  {
+    "letter": "ᱢᱦᱨ",
+    "english": "Twenty-eight",
+    "hindi": "２８",
+    "pronunciation": "twenty-eight",
+    "example": "28 - अट्ठाईस",
+    "image": "num_28.png",
+    "value": 28,
+    "verified": false
+  },
+  {
+    "letter": "ᱢᱦᱩᱨ",
+    "english": "Twenty-nine",
+    "hindi": "２９",
+    "pronunciation": "twenty-nine",
+    "example": "29 - उनतीस",
+    "image": "num_29.png",
+    "value": 29,
+    "verified": false
+  },
+  {
+    "letter": "ᱣᱦ",
+    "english": "Thirty",
+    "hindi": "３０",
+    "pronunciation": "thirty",
+    "example": "30 - तीस",
+    "image": "num_30.png",
+    "value": 30,
+    "verified": false
+  },
+  {
+    "letter": "ᱣᱦᱩ",
+    "english": "Thirty-one",
+    "hindi": "３１",
+    "pronunciation": "thirty-one",
+    "example": "31 - इकतीस",
+    "image": "num_31.png",
+    "value": 31,
+    "verified": false
+  },
+  {
+    "letter": "ᱣᱦᱢ",
+    "english": "Thirty-two",
+    "hindi": "３２",
+    "pronunciation": "thirty-two",
+    "example": "32 - बत्तीस",
+    "image": "num_32.png",
+    "value": 32,
+    "verified": false
+  },
+  {
+    "letter": "ᱣᱦᱣ",
+    "english": "Thirty-three",
+    "hindi": "３３",
+    "pronunciation": "thirty-three",
+    "example": "33 - तैंतीस",
+    "image": "num_33.png",
+    "value": 33,
+    "verified": false
+  },
+  {
+    "letter": "ᱣᱦᱤ",
+    "english": "Thirty-four",
+    "hindi": "３４",
+    "pronunciation": "thirty-four",
+    "example": "34 - चौंतीस",
+    "image": "num_34.png",
+    "value": 34,
+    "verified": false
+  },
+  {
+    "letter": "ᱣᱦᱥ",
+    "english": "Thirty-five",
+    "hindi": "３５",
+    "pronunciation": "thirty-five",
+    "example": "35 - पैंतीस",
+    "image": "num_35.png",
+    "value": 35,
+    "verified": false
+  },
+  {
+    "letter": "ᱣᱦᱦ",
+    "english": "Thirty-six",
+    "hindi": "３６",
+    "pronunciation": "thirty-six",
+    "example": "36 - छत्तीस",
+    "image": "num_36.png",
+    "value": 36,
+    "verified": false
+  },
+  {
+    "letter": "ᱣᱦᱧ",
+    "english": "Thirty-seven",
+    "hindi": "３７",
+    "pronunciation": "thirty-seven",
+    "example": "37 - सैंतीस",
+    "image": "num_37.png",
+    "value": 37,
+    "verified": false
+  },
+  {
+    "letter": "ᱣᱦᱨ",
+    "english": "Thirty-eight",
+    "hindi": "３８",
+    "pronunciation": "thirty-eight",
+    "example": "38 - अड़तीस",
+    "image": "num_38.png",
+    "value": 38,
+    "verified": false
+  },
+  {
+    "letter": "ᱣᱦᱩᱨ",
+    "english": "Thirty-nine",
+    "hindi": "３９",
+    "pronunciation": "thirty-nine",
+    "example": "39 - उनतालीस",
+    "image": "num_39.png",
+    "value": 39,
+    "verified": false
+  },
+  {
+    "letter": "ᱤᱦ",
+    "english": "Forty",
+    "hindi": "４０",
+    "pronunciation": "forty",
+    "example": "40 - चालीस",
+    "image": "num_40.png",
+    "value": 40,
+    "verified": false
+  },
+  {
+    "letter": "ᱤᱦᱩ",
+    "english": "Forty-one",
+    "hindi": "４１",
+    "pronunciation": "forty-one",
+    "example": "41 - इकतालीस",
+    "image": "num_41.png",
+    "value": 41,
+    "verified": false
+  },
+  {
+    "letter": "ᱤᱦᱢ",
+    "english": "Forty-two",
+    "hindi": "４２",
+    "pronunciation": "forty-two",
+    "example": "42 - बयालीस",
+    "image": "num_42.png",
+    "value": 42,
+    "verified": false
+  },
+  {
+    "letter": "ᱤᱦᱣ",
+    "english": "Forty-three",
+    "hindi": "４３",
+    "pronunciation": "forty-three",
+    "example": "43 - तैंतालीस",
+    "image": "num_43.png",
+    "value": 43,
+    "verified": false
+  },
+  {
+    "letter": "ᱤᱦᱤ",
+    "english": "Forty-four",
+    "hindi": "４４",
+    "pronunciation": "forty-four",
+    "example": "44 - चौंतालीस",
+    "image": "num_44.png",
+    "value": 44,
+    "verified": false
+  },
+  {
+    "letter": "ᱤᱦᱥ",
+    "english": "Forty-five",
+    "hindi": "４５",
+    "pronunciation": "forty-five",
+    "example": "45 - पैंतालीस",
+    "image": "num_45.png",
+    "value": 45,
+    "verified": false
+  },
+  {
+    "letter": "ᱤᱦᱦ",
+    "english": "Forty-six",
+    "hindi": "４６",
+    "pronunciation": "forty-six",
+    "example": "46 - छियालीस",
+    "image": "num_46.png",
+    "value": 46,
+    "verified": false
+  },
+  {
+    "letter": "ᱤᱦᱧ",
+    "english": "Forty-seven",
+    "hindi": "４７",
+    "pronunciation": "forty-seven",
+    "example": "47 - सैंतालीस",
+    "image": "num_47.png",
+    "value": 47,
+    "verified": false
+  },
+  {
+    "letter": "ᱤᱦᱨ",
+    "english": "Forty-eight",
+    "hindi": "４８",
+    "pronunciation": "forty-eight",
+    "example": "48 - अड़तालीस",
+    "image": "num_48.png",
+    "value": 48,
+    "verified": false
+  },
+  {
+    "letter": "ᱤᱦᱩᱨ",
+    "english": "Forty-nine",
+    "hindi": "４９",
+    "pronunciation": "forty-nine",
+    "example": "49 - उनचास",
+    "image": "num_49.png",
+    "value": 49,
+    "verified": false
+  },
+  {
+    "letter": "ᱥᱦ",
+    "english": "Fifty",
+    "hindi": "５０",
+    "pronunciation": "fifty",
+    "example": "50 - पचास",
+    "image": "num_50.png",
+    "value": 50,
+    "verified": false
+  },
+  {
+    "letter": "ᱥᱦᱩ",
+    "english": "Fifty-one",
+    "hindi": "５１",
+    "pronunciation": "fifty-one",
+    "example": "51 - इक्यावन",
+    "image": "num_51.png",
+    "value": 51,
+    "verified": false
+  },
+  {
+    "letter": "ᱥᱦᱢ",
+    "english": "Fifty-two",
+    "hindi": "５２",
+    "pronunciation": "fifty-two",
+    "example": "52 - बावन",
+    "image": "num_52.png",
+    "value": 52,
+    "verified": false
+  },
+  {
+    "letter": "ᱥᱦᱣ",
+    "english": "Fifty-three",
+    "hindi": "５３",
+    "pronunciation": "fifty-three",
+    "example": "53 - तिरपन",
+    "image": "num_53.png",
+    "value": 53,
+    "verified": false
+  },
+  {
+    "letter": "ᱥᱦᱤ",
+    "english": "Fifty-four",
+    "hindi": "５４",
+    "pronunciation": "fifty-four",
+    "example": "54 - चौवन",
+    "image": "num_54.png",
+    "value": 54,
+    "verified": false
+  },
+  {
+    "letter": "ᱥᱦᱥ",
+    "english": "Fifty-five",
+    "hindi": "５５",
+    "pronunciation": "fifty-five",
+    "example": "55 - पचपन",
+    "image": "num_55.png",
+    "value": 55,
+    "verified": false
+  },
+  {
+    "letter": "ᱥᱦᱦ",
+    "english": "Fifty-six",
+    "hindi": "５６",
+    "pronunciation": "fifty-six",
+    "example": "56 - छप्पन",
+    "image": "num_56.png",
+    "value": 56,
+    "verified": false
+  },
+  {
+    "letter": "ᱥᱦᱧ",
+    "english": "Fifty-seven",
+    "hindi": "５７",
+    "pronunciation": "fifty-seven",
+    "example": "57 - सत्तावन",
+    "image": "num_57.png",
+    "value": 57,
+    "verified": false
+  },
+  {
+    "letter": "ᱥᱦᱨ",
+    "english": "Fifty-eight",
+    "hindi": "５８",
+    "pronunciation": "fifty-eight",
+    "example": "58 - अठावन",
+    "image": "num_58.png",
+    "value": 58,
+    "verified": false
+  },
+  {
+    "letter": "ᱥᱦᱩᱨ",
+    "english": "Fifty-nine",
+    "hindi": "５９",
+    "pronunciation": "fifty-nine",
+    "example": "59 - उनसठ",
+    "image": "num_59.png",
+    "value": 59,
+    "verified": false
+  },
+  {
+    "letter": "ᱦᱦ",
+    "english": "Sixty",
+    "hindi": "６０",
+    "pronunciation": "sixty",
+    "example": "60 - साठ",
+    "image": "num_60.png",
+    "value": 60,
+    "verified": false
+  },
+  {
+    "letter": "ᱦᱦᱩ",
+    "english": "Sixty-one",
+    "hindi": "６１",
+    "pronunciation": "sixty-one",
+    "example": "61 - इकसठ",
+    "image": "num_61.png",
+    "value": 61,
+    "verified": false
+  },
+  {
+    "letter": "ᱦᱦᱢ",
+    "english": "Sixty-two",
+    "hindi": "６２",
+    "pronunciation": "sixty-two",
+    "example": "62 - बासठ",
+    "image": "num_62.png",
+    "value": 62,
+    "verified": false
+  },
+  {
+    "letter": "ᱦᱦᱣ",
+    "english": "Sixty-three",
+    "hindi": "６３",
+    "pronunciation": "sixty-three",
+    "example": "63 - तिरेसठ",
+    "image": "num_63.png",
+    "value": 63,
+    "verified": false
+  },
+  {
+    "letter": "ᱦᱦᱤ",
+    "english": "Sixty-four",
+    "hindi": "６４",
+    "pronunciation": "sixty-four",
+    "example": "64 - चौसठ",
+    "image": "num_64.png",
+    "value": 64,
+    "verified": false
+  },
+  {
+    "letter": "ᱦᱦᱥ",
+    "english": "Sixty-five",
+    "hindi": "６５",
+    "pronunciation": "sixty-five",
+    "example": "65 - पैंसठ",
+    "image": "num_65.png",
+    "value": 65,
+    "verified": false
+  },
+  {
+    "letter": "ᱦᱦᱦ",
+    "english": "Sixty-six",
+    "hindi": "６６",
+    "pronunciation": "sixty-six",
+    "example": "66 - छियासठ",
+    "image": "num_66.png",
+    "value": 66,
+    "verified": false
+  },
+  {
+    "letter": "ᱦᱦᱧ",
+    "english": "Sixty-seven",
+    "hindi": "６７",
+    "pronunciation": "sixty-seven",
+    "example": "67 - सड़सठ",
+    "image": "num_67.png",
+    "value": 67,
+    "verified": false
+  },
+  {
+    "letter": "ᱦᱦᱨ",
+    "english": "Sixty-eight",
+    "hindi": "６８",
+    "pronunciation": "sixty-eight",
+    "example": "68 - अड़सठ",
+    "image": "num_68.png",
+    "value": 68,
+    "verified": false
+  },
+  {
+    "letter": "ᱦᱦᱩᱨ",
+    "english": "Sixty-nine",
+    "hindi": "６９",
+    "pronunciation": "sixty-nine",
+    "example": "69 - उनहत्तर",
+    "image": "num_69.png",
+    "value": 69,
+    "verified": false
+  },
+  {
+    "letter": "ᱧᱦ",
+    "english": "Seventy",
+    "hindi": "７０",
+    "pronunciation": "seventy",
+    "example": "70 - सत्तर",
+    "image": "num_70.png",
+    "value": 70,
+    "verified": false
+  },
+  {
+    "letter": "ᱧᱦᱩ",
+    "english": "Seventy-one",
+    "hindi": "７１",
+    "pronunciation": "seventy-one",
+    "example": "71 - इकहत्तर",
+    "image": "num_71.png",
+    "value": 71,
+    "verified": false
+  },
+  {
+    "letter": "ᱧᱦᱢ",
+    "english": "Seventy-two",
+    "hindi": "７２",
+    "pronunciation": "seventy-two",
+    "example": "72 - बहत्तर",
+    "image": "num_72.png",
+    "value": 72,
+    "verified": false
+  },
+  {
+    "letter": "ᱧᱦᱣ",
+    "english": "Seventy-three",
+    "hindi": "７３",
+    "pronunciation": "seventy-three",
+    "example": "73 - तिहत्तर",
+    "image": "num_73.png",
+    "value": 73,
+    "verified": false
+  },
+  {
+    "letter": "ᱧᱦᱤ",
+    "english": "Seventy-four",
+    "hindi": "７４",
+    "pronunciation": "seventy-four",
+    "example": "74 - चौहत्तर",
+    "image": "num_74.png",
+    "value": 74,
+    "verified": false
+  },
+  {
+    "letter": "ᱧᱦᱥ",
+    "english": "Seventy-five",
+    "hindi": "７５",
+    "pronunciation": "seventy-five",
+    "example": "75 - पचहत्तर",
+    "image": "num_75.png",
+    "value": 75,
+    "verified": false
+  },
+  {
+    "letter": "ᱧᱦᱦ",
+    "english": "Seventy-six",
+    "hindi": "７６",
+    "pronunciation": "seventy-six",
+    "example": "76 - छिहत्तर",
+    "image": "num_76.png",
+    "value": 76,
+    "verified": false
+  },
+  {
+    "letter": "ᱧᱦᱧ",
+    "english": "Seventy-seven",
+    "hindi": "７７",
+    "pronunciation": "seventy-seven",
+    "example": "77 - सतहत्तर",
+    "image": "num_77.png",
+    "value": 77,
+    "verified": false
+  },
+  {
+    "letter": "ᱧᱦᱨ",
+    "english": "Seventy-eight",
+    "hindi": "７８",
+    "pronunciation": "seventy-eight",
+    "example": "78 - अठहत्तर",
+    "image": "num_78.png",
+    "value": 78,
+    "verified": false
+  },
+  {
+    "letter": "ᱧᱦᱩᱨ",
+    "english": "Seventy-nine",
+    "hindi": "７９",
+    "pronunciation": "seventy-nine",
+    "example": "79 - उन्यासी",
+    "image": "num_79.png",
+    "value": 79,
+    "verified": false
+  },
+  {
+    "letter": "ᱨᱦ",
+    "english": "Eighty",
+    "hindi": "８０",
+    "pronunciation": "eighty",
+    "example": "80 - अस्सी",
+    "image": "num_80.png",
+    "value": 80,
+    "verified": false
+  },
+  {
+    "letter": "ᱨᱦᱩ",
+    "english": "Eighty-one",
+    "hindi": "８１",
+    "pronunciation": "eighty-one",
+    "example": "81 - इक्यासी",
+    "image": "num_81.png",
+    "value": 81,
+    "verified": false
+  },
+  {
+    "letter": "ᱨᱦᱢ",
+    "english": "Eighty-two",
+    "hindi": "８２",
+    "pronunciation": "eighty-two",
+    "example": "82 - बयासी",
+    "image": "num_82.png",
+    "value": 82,
+    "verified": false
+  },
+  {
+    "letter": "ᱨᱦᱣ",
+    "english": "Eighty-three",
+    "hindi": "８３",
+    "pronunciation": "eighty-three",
+    "example": "83 - तिरासी",
+    "image": "num_83.png",
+    "value": 83,
+    "verified": false
+  },
+  {
+    "letter": "ᱨᱦᱤ",
+    "english": "Eighty-four",
+    "hindi": "８４",
+    "pronunciation": "eighty-four",
+    "example": "84 - चौरासी",
+    "image": "num_84.png",
+    "value": 84,
+    "verified": false
+  },
+  {
+    "letter": "ᱨᱦᱥ",
+    "english": "Eighty-five",
+    "hindi": "８５",
+    "pronunciation": "eighty-five",
+    "example": "85 - पचासी",
+    "image": "num_85.png",
+    "value": 85,
+    "verified": false
+  },
+  {
+    "letter": "ᱨᱦᱦ",
+    "english": "Eighty-six",
+    "hindi": "８６",
+    "pronunciation": "eighty-six",
+    "example": "86 - छियासी",
+    "image": "num_86.png",
+    "value": 86,
+    "verified": false
+  },
+  {
+    "letter": "ᱨᱦᱧ",
+    "english": "Eighty-seven",
+    "hindi": "８７",
+    "pronunciation": "eighty-seven",
+    "example": "87 - सतासी",
+    "image": "num_87.png",
+    "value": 87,
+    "verified": false
+  },
+  {
+    "letter": "ᱨᱦᱨ",
+    "english": "Eighty-eight",
+    "hindi": "８８",
+    "pronunciation": "eighty-eight",
+    "example": "88 - अठासी",
+    "image": "num_88.png",
+    "value": 88,
+    "verified": false
+  },
+  {
+    "letter": "ᱨᱦᱩᱨ",
+    "english": "Eighty-nine",
+    "hindi": "８９",
+    "pronunciation": "eighty-nine",
+    "example": "89 - उननबे",
+    "image": "num_89.png",
+    "value": 89,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱨᱦ",
+    "english": "Ninety",
+    "hindi": "９０",
+    "pronunciation": "ninety",
+    "example": "90 - नब्बे",
+    "image": "num_90.png",
+    "value": 90,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱨᱦᱩ",
+    "english": "Ninety-one",
+    "hindi": "９１",
+    "pronunciation": "ninety-one",
+    "example": "91 - इक्यानबे",
+    "image": "num_91.png",
+    "value": 91,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱨᱦᱢ",
+    "english": "Ninety-two",
+    "hindi": "９２",
+    "pronunciation": "ninety-two",
+    "example": "92 - बानवे",
+    "image": "num_92.png",
+    "value": 92,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱨᱦᱣ",
+    "english": "Ninety-three",
+    "hindi": "９３",
+    "pronunciation": "ninety-three",
+    "example": "93 - तिरानवे",
+    "image": "num_93.png",
+    "value": 93,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱨᱦᱤ",
+    "english": "Ninety-four",
+    "hindi": "９４",
+    "pronunciation": "ninety-four",
+    "example": "94 - चौरानवे",
+    "image": "num_94.png",
+    "value": 94,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱨᱦᱥ",
+    "english": "Ninety-five",
+    "hindi": "９５",
+    "pronunciation": "ninety-five",
+    "example": "95 - पचानवे",
+    "image": "num_95.png",
+    "value": 95,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱨᱦᱦ",
+    "english": "Ninety-six",
+    "hindi": "９６",
+    "pronunciation": "ninety-six",
+    "example": "96 - छियानवे",
+    "image": "num_96.png",
+    "value": 96,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱨᱦᱧ",
+    "english": "Ninety-seven",
+    "hindi": "９７",
+    "pronunciation": "ninety-seven",
+    "example": "97 - सत्तानवे",
+    "image": "num_97.png",
+    "value": 97,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱨᱦᱨ",
+    "english": "Ninety-eight",
+    "hindi": "９８",
+    "pronunciation": "ninety-eight",
+    "example": "98 - अठानवे",
+    "image": "num_98.png",
+    "value": 98,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱨᱦᱩᱨ",
+    "english": "Ninety-nine",
+    "hindi": "９９",
+    "pronunciation": "ninety-nine",
+    "example": "99 - निन्यानवे",
+    "image": "num_99.png",
+    "value": 99,
+    "verified": false
+  },
+  {
+    "letter": "ᱩᱦᱥ",
+    "english": "One Hundred",
+    "hindi": "１００",
+    "pronunciation": "one hundred",
+    "example": "100 - सौ",
+    "image": "num_100.png",
+    "value": 100,
+    "verified": false
+  }
+]

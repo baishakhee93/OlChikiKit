@@ -1,0 +1,1082 @@
+[
+  {
+    "word": "ᱟᱯᱞ",
+    "roman": "Aapel",
+    "english": "Apple",
+    "hindi": "सेब",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱚᱞᱟ",
+    "roman": "Kola",
+    "english": "Banana",
+    "hindi": "केला",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱟᱢ",
+    "roman": "Aam",
+    "english": "Mango",
+    "hindi": "आम",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱚᱨᱟᱱᱡ",
+    "roman": "Oranj",
+    "english": "Orange",
+    "hindi": "संतरा",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱜᱨᱮᱯᱥ",
+    "roman": "Greps",
+    "english": "Grapes",
+    "hindi": "अंगूर",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱟᱭᱱᱮᱯᱞ",
+    "roman": "Painapel",
+    "english": "Pineapple",
+    "hindi": "अनानास",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱟᱯᱟᱭᱟ",
+    "roman": "Papaya",
+    "english": "Papaya",
+    "hindi": "पपीता",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱜᱩᱣᱟ",
+    "roman": "Guwa",
+    "english": "Guava",
+    "hindi": "अमरूद",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱣᱟᱴᱟᱨᱢᱮᱞᱚᱱ",
+    "roman": "Watermelon",
+    "english": "Watermelon",
+    "hindi": "तरबूज",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱞᱮᱢᱚᱱ",
+    "roman": "Lemon",
+    "english": "Lemon",
+    "hindi": "नींबू",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱥᱴᱨᱚᱵᱮᱨᱤ",
+    "roman": "Straberi",
+    "english": "Strawberry",
+    "hindi": "स्ट्रॉबेरी",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱪᱮᱨᱤ",
+    "roman": "Cheri",
+    "english": "Cherry",
+    "hindi": "चेरी",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱤᱪ",
+    "roman": "Pich",
+    "english": "Peach",
+    "hindi": "आड़ू",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱮᱭᱟᱨ",
+    "roman": "Peyar",
+    "english": "Pear",
+    "hindi": "नाशपाती",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱚᱢᱮᱜᱨᱮᱱᱮᱴ",
+    "roman": "Pomegrenat",
+    "english": "Pomegranate",
+    "hindi": "अनार",
+    "category": "Fruits",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱟᱞᱩ",
+    "roman": "Alu",
+    "english": "Potato",
+    "hindi": "आलू",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱴᱚᱢᱟᱴᱚ",
+    "roman": "Tomato",
+    "english": "Tomato",
+    "hindi": "टमाटर",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱤᱭᱟᱡ",
+    "roman": "Piyaj",
+    "english": "Onion",
+    "hindi": "प्याज",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱟᱨᱚᱴ",
+    "roman": "Karot",
+    "english": "Carrot",
+    "hindi": "गाजर",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱮᱵᱮᱡ",
+    "roman": "Kebej",
+    "english": "Cabbage",
+    "hindi": "पत्तागोभी",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱚᱞᱤᱯᱷᱞᱟᱣᱚᱨ",
+    "roman": "Koliflawar",
+    "english": "Cauliflower",
+    "hindi": "फूलगोभी",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱥᱯᱤᱱᱟᱪ",
+    "roman": "Spinach",
+    "english": "Spinach",
+    "hindi": "पालक",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱵᱨᱤᱱᱡᱟᱞ",
+    "roman": "Brinjal",
+    "english": "Brinjal",
+    "hindi": "बैंगन",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱟᱢᱯᱠᱤᱱ",
+    "roman": "Pumpkin",
+    "english": "Pumpkin",
+    "hindi": "कद्दू",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱨᱟᱫᱤᱥ",
+    "roman": "Radish",
+    "english": "Radish",
+    "hindi": "मूली",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱩᱠᱩᱢᱵᱟᱨ",
+    "roman": "Cucumber",
+    "english": "Cucumber",
+    "hindi": "खीरा",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱤᱥ",
+    "roman": "Peas",
+    "english": "Peas",
+    "hindi": "मटर",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱜᱟᱨᱞᱤᱠ",
+    "roman": "Garlik",
+    "english": "Garlic",
+    "hindi": "लहसुन",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱡᱤᱱᱡᱟᱨ",
+    "roman": "Jinjar",
+    "english": "Ginger",
+    "hindi": "अदरक",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱪᱤᱞᱤ",
+    "roman": "Chili",
+    "english": "Chilli",
+    "hindi": "मिर्च",
+    "category": "Vegetables",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱩᱠᱩᱨ",
+    "roman": "Kukur",
+    "english": "Dog",
+    "hindi": "कुत्ता",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱵᱤᱞᱟᱹᱭ",
+    "roman": "Bilai",
+    "english": "Cat",
+    "hindi": "बिल्ली",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱜᱟᱭ",
+    "roman": "Gai",
+    "english": "Cow",
+    "hindi": "गाय",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱴᱟᱭᱜᱚᱨ",
+    "roman": "Taigor",
+    "english": "Tiger",
+    "hindi": "बाघ",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱞᱟᱭᱚᱱ",
+    "roman": "Layon",
+    "english": "Lion",
+    "hindi": "शेर",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱮᱞᱮᱯᱷᱮᱱᱴ",
+    "roman": "Elephant",
+    "english": "Elephant",
+    "hindi": "हाथी",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱦᱚᱨᱥ",
+    "roman": "Hors",
+    "english": "Horse",
+    "hindi": "घोड़ा",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱜᱚᱴ",
+    "roman": "Got",
+    "english": "Goat",
+    "hindi": "बकरी",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱥᱤップ",
+    "roman": "Sip",
+    "english": "Sheep",
+    "hindi": "भेड़",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱢᱚᱱᱠᱤ",
+    "roman": "Monki",
+    "english": "Monkey",
+    "hindi": "बंदर",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱵᱮᱟᱨ",
+    "roman": "Bear",
+    "english": "Bear",
+    "hindi": "भालू",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱰᱤᱭᱟᱨ",
+    "roman": "Diyar",
+    "english": "Deer",
+    "hindi": "हिरण",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱷᱚᱠᱥ",
+    "roman": "Phoks",
+    "english": "Fox",
+    "hindi": "लोमड़ी",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱣᱚᱞᱯ",
+    "roman": "Wolp",
+    "english": "Wolf",
+    "hindi": "भेड़िया",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱟᱢᱮᱞ",
+    "roman": "Kamel",
+    "english": "Camel",
+    "hindi": "ऊंट",
+    "category": "Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱥᱩᱜᱟ",
+    "roman": "Suga",
+    "english": "Parrot",
+    "hindi": "तोता",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱟᱣᱟ",
+    "roman": "Kawa",
+    "english": "Crow",
+    "hindi": "कौवा",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱢᱚᱨ",
+    "roman": "Mor",
+    "english": "Peacock",
+    "hindi": "मोर",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱥᱯᱮᱨᱚ",
+    "roman": "Spero",
+    "english": "Sparrow",
+    "hindi": "गौरैया",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱤᱡᱚᱱ",
+    "roman": "Pijon",
+    "english": "Pigeon",
+    "hindi": "कबूतर",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱤᱜᱞ",
+    "roman": "Igl",
+    "english": "Eagle",
+    "hindi": "गरुड़",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱚᱣᱞ",
+    "roman": "Owl",
+    "english": "Owl",
+    "hindi": "उल्लू",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱰᱟᱠ",
+    "roman": "Dak",
+    "english": "Duck",
+    "hindi": "बतख",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱦᱮᱱ",
+    "roman": "Hen",
+    "english": "Hen",
+    "hindi": "मुर्गी",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱚᱠ",
+    "roman": "Kok",
+    "english": "Cock",
+    "hindi": "मुर्गा",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱥᱣᱟᱱ",
+    "roman": "Swan",
+    "english": "Swan",
+    "hindi": "हंस",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱷᱟᱞᱠᱚᱱ",
+    "roman": "Phalkon",
+    "english": "Falcon",
+    "hindi": "बाज",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱤᱝᱜᱯᱤᱥᱟᱨ",
+    "roman": "Kingfisar",
+    "english": "Kingfisher",
+    "hindi": "किंगफिशर",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱣᱩᱰᱯᱮᱠᱟᱨ",
+    "roman": "Woodpekar",
+    "english": "Woodpecker",
+    "hindi": "कठफोड़वा",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱟᱨᱴᱨᱤᱡ",
+    "roman": "Partrij",
+    "english": "Partridge",
+    "hindi": "तीतर",
+    "category": "Birds",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱨᱳᱥ",
+    "roman": "Ros",
+    "english": "Rose",
+    "hindi": "गुलाब",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱚᱢᱚᱞ",
+    "roman": "Komol",
+    "english": "Lotus",
+    "hindi": "कमल",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱥᱩᱨᱡᱚᱢᱩᱠᱷᱤ",
+    "roman": "Surjomukhi",
+    "english": "Sunflower",
+    "hindi": "सूरजमुखी",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱡᱟᱥᱢᱤᱱ",
+    "roman": "Jasmin",
+    "english": "Jasmine",
+    "hindi": "चमेली",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱢᱟᱨᱤᱜᱚᱞᱰ",
+    "roman": "Marigold",
+    "english": "Marigold",
+    "hindi": "गेंदा",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱞᱤᱞᱤ",
+    "roman": "Lili",
+    "english": "Lily",
+    "hindi": "कुमुदिनी",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱴᱩᱞᱤᱯ",
+    "roman": "Tulip",
+    "english": "Tulip",
+    "hindi": "ट्यूलिप",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱰᱮᱡᱤ",
+    "roman": "Deji",
+    "english": "Daisy",
+    "hindi": "गुलबहार",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱦᱤᱵᱤᱥᱠᱟᱥ",
+    "roman": "Hibiskas",
+    "english": "Hibiscus",
+    "hindi": "गुड़हल",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱚᱨᱠᱤᱰ",
+    "roman": "Orkid",
+    "english": "Orchid",
+    "hindi": "ऑर्किड",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱞᱟᱣᱮᱱᱰᱟᱨ",
+    "roman": "Lavendar",
+    "english": "Lavender",
+    "hindi": "लैवेंडर",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱵᱞᱩᱵᱮᱞ",
+    "roman": "Bluebel",
+    "english": "Bluebell",
+    "hindi": "ब्लूबेल",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱚᱯᱤ",
+    "roman": "Popi",
+    "english": "Poppy",
+    "hindi": "पोस्ता",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱢᱟᱜᱱᱚᱞᱤᱟ",
+    "roman": "Magnolia",
+    "english": "Magnolia",
+    "hindi": "मैगनोलिया",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱮᱴᱩᱱᱤᱟ",
+    "roman": "Petunia",
+    "english": "Petunia",
+    "hindi": "पेटूनिया",
+    "category": "Flowers",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱱᱤᱢ",
+    "roman": "",
+    "english": "Neem",
+    "hindi": "नीम",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱵᱟᱨ",
+    "roman": "",
+    "english": "Banyan",
+    "hindi": "बरगद",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱤᱯᱟᱞ",
+    "roman": "",
+    "english": "Peepal",
+    "hindi": "पीपल",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱟᱢ ᱫᱟᱨᱮ",
+    "roman": "",
+    "english": "Mango Tree",
+    "hindi": "आम का पेड़",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱚᱠᱚᱱᱟᱴ",
+    "roman": "",
+    "english": "Coconut",
+    "hindi": "नारियल",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱟᱢ",
+    "roman": "",
+    "english": "Palm",
+    "hindi": "खजूर",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱴᱤᱠ",
+    "roman": "",
+    "english": "Teak",
+    "hindi": "सागौन",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱥᱟᱞ",
+    "roman": "",
+    "english": "Sal",
+    "hindi": "साल",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱭᱩᱠᱟᱞᱤᱯᱴᱟᱥ",
+    "roman": "",
+    "english": "Eucalyptus",
+    "hindi": "यूकेलिप्टस",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱟᱥᱚᱠᱟ",
+    "roman": "",
+    "english": "Ashoka",
+    "hindi": "अशोक",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱜᱩᱣᱟ ᱫᱟᱨᱮ",
+    "roman": "",
+    "english": "Guava Tree",
+    "hindi": "अमरूद का पेड़",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱟᱯᱞ ᱫᱟᱨᱮ",
+    "roman": "",
+    "english": "Apple Tree",
+    "hindi": "सेब का पेड़",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱚᱨᱟᱱᱡ ᱫᱟᱨᱮ",
+    "roman": "",
+    "english": "Orange Tree",
+    "hindi": "संतरा का पेड़",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱨᱟᱵᱟᱨ ᱫᱟᱨᱮ",
+    "roman": "",
+    "english": "Rubber Tree",
+    "hindi": "रबर का पेड़",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱵᱟᱢᱵᱩ",
+    "roman": "",
+    "english": "Bamboo",
+    "hindi": "बांस",
+    "category": "Trees",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱢᱤᱨᱤ",
+    "roman": "Miri",
+    "english": "Ant",
+    "hindi": "चींटी",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱢᱟᱹᱪᱤ",
+    "roman": "Machi",
+    "english": "Bee",
+    "hindi": "मधुमक्खी",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱤᱞᱤᱛ",
+    "roman": "Pilit",
+    "english": "Butterfly",
+    "hindi": "तितली",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱢᱚᱥᱠᱤᱴᱚ",
+    "roman": "Mosquito",
+    "english": "Mosquito",
+    "hindi": "मच्छर",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱷᱞᱟᱭ",
+    "roman": "Phlay",
+    "english": "Housefly",
+    "hindi": "मक्खी",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱚᱠᱨᱚᱪ",
+    "roman": "Kokroch",
+    "english": "Cockroach",
+    "hindi": "तिलचट्टा",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱜᱨᱟᱥᱦᱚᱯᱟᱨ",
+    "roman": "Grashophar",
+    "english": "Grasshopper",
+    "hindi": "टिड्डा",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱰᱨᱟᱜᱚᱱᱯᱷᱞᱟᱭ",
+    "roman": "Dragonphlay",
+    "english": "Dragonfly",
+    "hindi": "व्याध पतंग",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱴᱟᱨᱢᱟᱭᱤᱴ",
+    "roman": "Tarmayit",
+    "english": "Termite",
+    "hindi": "दीमक",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱵᱤᱴᱞ",
+    "roman": "Bitol",
+    "english": "Beetle",
+    "hindi": "भृंग",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱣᱟᱥᱯ",
+    "roman": "Wasp",
+    "english": "Wasp",
+    "hindi": "बर्रा",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱢᱚᱛᱷ",
+    "roman": "Moth",
+    "english": "Moth",
+    "hindi": "पतंगा",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱟᱭᱟᱨᱯᱷᱞᱟᱭ",
+    "roman": "Payarphlay",
+    "english": "Firefly",
+    "hindi": "जुगनू",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱯᱷᱞᱤ",
+    "roman": "Phli",
+    "english": "Flea",
+    "hindi": "पिस्सू",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱞᱟᱣᱥ",
+    "roman": "Lous",
+    "english": "Louse",
+    "hindi": "जूं",
+    "category": "Insects",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱢᱟᱪᱷ",
+    "roman": "Machh",
+    "english": "Fish",
+    "hindi": "मछली",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱥᱟᱨᱠ",
+    "roman": "Shark",
+    "english": "Shark",
+    "hindi": "शार्क",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱰᱚᱞᱯᱷᱤᱱ",
+    "roman": "Dolphin",
+    "english": "Dolphin",
+    "hindi": "डॉल्फिन",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱣᱷᱮᱞ",
+    "roman": "Whale",
+    "english": "Whale",
+    "hindi": "व्हेल",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱚᱠᱴᱚᱯᱩᱥ",
+    "roman": "Octopus",
+    "english": "Octopus",
+    "hindi": "ऑक्टोपस",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱨᱟᱵ",
+    "roman": "Krab",
+    "english": "Crab",
+    "hindi": "केकड़ा",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱞᱚᱵᱥᱴᱟᱨ",
+    "roman": "Lobstar",
+    "english": "Lobster",
+    "hindi": "झींगा",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱥᱴᱟᱨᱯᱷᱤᱥ",
+    "roman": "Starfish",
+    "english": "Starfish",
+    "hindi": "स्टारफिश",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱥᱤᱦᱚᱨᱥ",
+    "roman": "Seahorse",
+    "english": "Seahorse",
+    "hindi": "समुद्री घोड़ा",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱡᱮᱞᱤᱯᱷᱤᱥ",
+    "roman": "Jellyfish",
+    "english": "Jellyfish",
+    "hindi": "जेलीफिश",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱥᱠᱩᱤᱰ",
+    "roman": "Squid",
+    "english": "Squid",
+    "hindi": "स्क्विड",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱥᱤᱞ",
+    "roman": "Seal",
+    "english": "Seal",
+    "hindi": "सील",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱚᱴᱟᱨ",
+    "roman": "Otar",
+    "english": "Otter",
+    "hindi": "ऊदबिलाव",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱞᱟᱢ",
+    "roman": "Clam",
+    "english": "Clam",
+    "hindi": "शंख",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  },
+  {
+    "word": "ᱠᱚᱨᱟᱞ",
+    "roman": "Coral",
+    "english": "Coral",
+    "hindi": "मूंगा",
+    "category": "Sea Animals",
+    "frequency": 1,
+    "verified": false
+  }
+]

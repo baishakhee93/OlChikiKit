@@ -1,0 +1,212 @@
+[
+  {
+    "letter": "ᱚ",
+    "english": "a",
+    "hindi": "अ",
+    "audio": "a.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱛ",
+    "english": "at",
+    "hindi": "अत",
+    "audio": "at.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱜ",
+    "english": "oh",
+    "hindi": "अः",
+    "audio": "ag.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱝ",
+    "english": "ang",
+    "hindi": "अं",
+    "audio": "ang.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱞ",
+    "english": "ol",
+    "hindi": "अल",
+    "audio": "al.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱟ",
+    "english": "aa",
+    "hindi": "आ",
+    "audio": "aa.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱠ",
+    "english": "aak",
+    "hindi": "आक",
+    "audio": "aak.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱡ",
+    "english": "aaj",
+    "hindi": "आज",
+    "audio": "aaj.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱢ",
+    "english": "aam",
+    "hindi": "आम",
+    "audio": "aam.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱣ",
+    "english": "aaw",
+    "hindi": "आउ",
+    "audio": "aaw.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱤ",
+    "english": "ie",
+    "hindi": "इ",
+    "audio": "i.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱥ",
+    "english": "ish",
+    "hindi": "इस",
+    "audio": "is.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱦ",
+    "english": "ihh",
+    "hindi": "इह",
+    "audio": "ih.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱧ",
+    "english": "inj",
+    "hindi": "इंज",
+    "audio": "inj.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱨ",
+    "english": "ir",
+    "hindi": "इर",
+    "audio": "ir.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱩ",
+    "english": "u",
+    "hindi": "उ",
+    "audio": "u.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱪ",
+    "english": "uch",
+    "hindi": "उच",
+    "audio": "uch.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱫ",
+    "english": "ud",
+    "hindi": "उद",
+    "audio": "ud.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱬ",
+    "english": "unn",
+    "hindi": "उण",
+    "audio": "urr.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱭ",
+    "english": "uy",
+    "hindi": "उय",
+    "audio": "uy.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱮ",
+    "english": "ae",
+    "hindi": "ए",
+    "audio": "e.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱯ",
+    "english": "aep",
+    "hindi": "एप",
+    "audio": "ep.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱰ",
+    "english": "aed",
+    "hindi": "एड",
+    "audio": "ed.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱱ",
+    "english": "den",
+    "hindi": "एन",
+    "audio": "en.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱲ",
+    "english": "err",
+    "hindi": "एर्र",
+    "audio": "err.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱳ",
+    "english": "oa",
+    "hindi": "ओ",
+    "audio": "o.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱴ",
+    "english": "ot",
+    "hindi": "ओट",
+    "audio": "ott.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱵ",
+    "english": "ob",
+    "hindi": "ओब",
+    "audio": "ob.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱶ",
+    "english": "oun",
+    "hindi": "ओन्व",
+    "audio": "onv.mp3",
+    "verified": false
+  },
+  {
+    "letter": "ᱷ",
+    "english": "oh",
+    "hindi": "ओह",
+    "audio": "oh.mp3",
+    "verified": false
+  }
+]

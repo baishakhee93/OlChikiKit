@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "en": "A",
+    "hi": "अ",
+    "ol": "ᱟ",
+    "example_en": "Apple",
+    "example_hi": "अनार",
+    "example_ol": "ᱟᱯᱞ (Apel)",
+    "verified": false
+  },
+  {
+    "id": 2,
+    "en": "B",
+    "hi": "ब",
+    "ol": "ᱵ",
+    "example_en": "Ball",
+    "example_hi": "बकरी",
+    "example_ol": "ᱵᱚᱞ (Bol)",
+    "verified": false
+  },
+  {
+    "id": 3,
+    "en": "C",
+    "hi": "क",
+    "ol": "ᱪ",
+    "example_en": "Cat",
+    "example_hi": "कबूतर",
+    "example_ol": "ᱪᱟᱴ (Cat)",
+    "verified": false
+  },
+  {
+    "id": 4,
+    "en": "D",
+    "hi": "ड",
+    "ol": "ᱰ",
+    "example_en": "Dog",
+    "example_hi": "डमरू",
+    "example_ol": "ᱰᱚᱜ (Dog)",
+    "verified": false
+  },
+  {
+    "id": 5,
+    "en": "E",
+    "hi": "ए",
+    "ol": "ᱮ",
+    "example_en": "Elephant",
+    "example_hi": "एक",
+    "example_ol": "ᱮᱞᱮᱯᱷᱮᱱᱴ (Elephant)",
+    "verified": false
+  },
+  {
+    "id": 6,
+    "en": "F",
+    "hi": "फ",
+    "ol": "ᱯ",
+    "example_en": "Fish",
+    "example_hi": "फल",
+    "example_ol": "ᱯᱤᱥ (Fish)",
+    "verified": false
+  },
+  {
+    "id": 7,
+    "en": "G",
+    "hi": "ग",
+    "ol": "ᱜ",
+    "example_en": "Goat",
+    "example_hi": "गाय",
+    "example_ol": "ᱜᱚᱴ (Goat)",
+    "verified": false
+  },
+  {
+    "id": 8,
+    "en": "H",
+    "hi": "ह",
+    "ol": "ᱦ",
+    "example_en": "Hen",
+    "example_hi": "हाथी",
+    "example_ol": "ᱦᱮᱱ (Hen)",
+    "verified": false
+  },
+  {
+    "id": 9,
+    "en": "I",
+    "hi": "इ",
+    "ol": "ᱤ",
+    "example_en": "Ice",
+    "example_hi": "इमली",
+    "example_ol": "ᱤᱥ (Ice)",
+    "verified": false
+  },
+  {
+    "id": 10,
+    "en": "J",
+    "hi": "ज",
+    "ol": "ᱡ",
+    "example_en": "Jug",
+    "example_hi": "जहाज",
+    "example_ol": "ᱡᱩᱜ (Jug)",
+    "verified": false
+  },
+  {
+    "id": 11,
+    "en": "K",
+    "hi": "क",
+    "ol": "ᱠ",
+    "example_en": "Kite",
+    "example_hi": "कमल",
+    "example_ol": "ᱠᱟᱭᱤᱴ (Kite)",
+    "verified": false
+  },
+  {
+    "id": 12,
+    "en": "L",
+    "hi": "ल",
+    "ol": "ᱞ",
+    "example_en": "Lion",
+    "example_hi": "लड्डू",
+    "example_ol": "ᱞᱟᱭᱚᱱ (Lion)",
+    "verified": false
+  },
+  {
+    "id": 13,
+    "en": "M",
+    "hi": "म",
+    "ol": "ᱢ",
+    "example_en": "Monkey",
+    "example_hi": "मछली",
+    "example_ol": "ᱢᱚᱱᱠᱤ (Monkey)",
+    "verified": false
+  },
+  {
+    "id": 14,
+    "en": "N",
+    "hi": "न",
+    "ol": "ᱱ",
+    "example_en": "Nest",
+    "example_hi": "नल",
+    "example_ol": "ᱱᱮᱥᱴ (Nest)",
+    "verified": false
+  },
+  {
+    "id": 15,
+    "en": "O",
+    "hi": "ओ",
+    "ol": "ᱳ",
+    "example_en": "Orange",
+    "example_hi": "ओखली",
+    "example_ol": "ᱚᱨᱟᱱᱡ (Orange)",
+    "verified": false
+  },
+  {
+    "id": 16,
+    "en": "P",
+    "hi": "प",
+    "ol": "ᱯ",
+    "example_en": "Parrot",
+    "example_hi": "पतंग",
+    "example_ol": "ᱯᱟᱨᱚᱴ (Parrot)",
+    "verified": false
+  },
+  {
+    "id": 17,
+    "en": "Q",
+    "hi": "क्यू",
+    "ol": "ᱠᱩ",
+    "example_en": "Queen",
+    "example_hi": "किला",
+    "example_ol": "ᱠᱩᱭᱤᱱ (Queen)",
+    "verified": false
+  },
+  {
+    "id": 18,
+    "en": "R",
+    "hi": "र",
+    "ol": "ᱨ",
+    "example_en": "Rabbit",
+    "example_hi": "रस",
+    "example_ol": "ᱨᱟᱵᱤᱴ (Rabbit)",
+    "verified": false
+  },
+  {
+    "id": 19,
+    "en": "S",
+    "hi": "स",
+    "ol": "ᱥ",
+    "example_en": "Sun",
+    "example_hi": "सूरज",
+    "example_ol": "ᱥᱩᱱ (Sun)",
+    "verified": false
+  },
+  {
+    "id": 20,
+    "en": "T",
+    "hi": "त",
+    "ol": "ᱛ",
+    "example_en": "Tiger",
+    "example_hi": "तरबूज",
+    "example_ol": "ᱛᱟᱭᱜᱚᱨ (Tiger)",
+    "verified": false
+  },
+  {
+    "id": 21,
+    "en": "U",
+    "hi": "उ",
+    "ol": "ᱩ",
+    "example_en": "Umbrella",
+    "example_hi": "उल्लू",
+    "example_ol": "ᱩᱢᱵᱨᱮᱞᱟ (Umbrella)",
+    "verified": false
+  },
+  {
+    "id": 22,
+    "en": "V",
+    "hi": "व",
+    "ol": "ᱣ",
+    "example_en": "Van",
+    "example_hi": "विमान",
+    "example_ol": "ᱣᱮᱱ (Van)",
+    "verified": false
+  },
+  {
+    "id": 23,
+    "en": "W",
+    "hi": "डब्ल्यू",
+    "ol": "ᱣ",
+    "example_en": "Watch",
+    "example_hi": "वृक्ष",
+    "example_ol": "ᱣᱟᱪ (Watch)",
+    "verified": false
+  },
+  {
+    "id": 24,
+    "en": "X",
+    "hi": "क्स",
+    "ol": "ᱠᱥ",
+    "example_en": "Xylophone",
+    "example_hi": "क्षत्रिय",
+    "example_ol": "ᱠᱥᱟᱭᱞᱚᱯᱷᱚᱱ (Xylophone)",
+    "verified": false
+  },
+  {
+    "id": 25,
+    "en": "Y",
+    "hi": "य",
+    "ol": "ᱭ",
+    "example_en": "Yak",
+    "example_hi": "यज्ञ",
+    "example_ol": "ᱭᱟᱠ (Yak)",
+    "verified": false
+  },
+  {
+    "id": 26,
+    "en": "Z",
+    "hi": "जेड",
+    "ol": "ᱡ",
+    "example_en": "Zebra",
+    "example_hi": "जहाज",
+    "example_ol": "ᱡᱮᱵᱨᱟ (Zebra)",
+    "verified": false
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "name_en": "Apple",
+    "name_ol": "ᱟᱯᱞ (Aapel)",
+    "name_hi": "सेब",
+    "image": "🍎",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 2,
+    "name_en": "Banana",
+    "name_ol": "ᱠᱚᱞᱟ (Kola)",
+    "name_hi": "केला",
+    "image": "🍌",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 3,
+    "name_en": "Mango",
+    "name_ol": "ᱟᱢ (Aam)",
+    "name_hi": "आम",
+    "image": "🥭",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 4,
+    "name_en": "Orange",
+    "name_ol": "ᱚᱨᱟᱱᱡ (Oranj)",
+    "name_hi": "संतरा",
+    "image": "🍊",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 5,
+    "name_en": "Grapes",
+    "name_ol": "ᱜᱨᱮᱯᱥ (Greps)",
+    "name_hi": "अंगूर",
+    "image": "🍇",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 6,
+    "name_en": "Pineapple",
+    "name_ol": "ᱯᱟᱭᱱᱮᱯᱞ (Painapel)",
+    "name_hi": "अनानास",
+    "image": "🍍",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 7,
+    "name_en": "Papaya",
+    "name_ol": "ᱯᱟᱯᱟᱭᱟ (Papaya)",
+    "name_hi": "पपीता",
+    "image": "🥭",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 8,
+    "name_en": "Guava",
+    "name_ol": "ᱜᱩᱣᱟ (Guwa)",
+    "name_hi": "अमरूद",
+    "image": "🍈",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 9,
+    "name_en": "Watermelon",
+    "name_ol": "ᱣᱟᱴᱟᱨᱢᱮᱞᱚᱱ (Watermelon)",
+    "name_hi": "तरबूज",
+    "image": "🍉",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 10,
+    "name_en": "Lemon",
+    "name_ol": "ᱞᱮᱢᱚᱱ (Lemon)",
+    "name_hi": "नींबू",
+    "image": "🍋",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 11,
+    "name_en": "Strawberry",
+    "name_ol": "ᱥᱴᱨᱚᱵᱮᱨᱤ (Straberi)",
+    "name_hi": "स्ट्रॉबेरी",
+    "image": "🍓",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 12,
+    "name_en": "Cherry",
+    "name_ol": "ᱪᱮᱨᱤ (Cheri)",
+    "name_hi": "चेरी",
+    "image": "🍒",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 13,
+    "name_en": "Peach",
+    "name_ol": "ᱯᱤᱪ (Pich)",
+    "name_hi": "आड़ू",
+    "image": "🍑",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 14,
+    "name_en": "Pear",
+    "name_ol": "ᱯᱮᱭᱟᱨ (Peyar)",
+    "name_hi": "नाशपाती",
+    "image": "🍐",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 15,
+    "name_en": "Pomegranate",
+    "name_ol": "ᱯᱚᱢᱮᱜᱨᱮᱱᱮᱴ (Pomegrenat)",
+    "name_hi": "अनार",
+    "image": "🍎",
+    "category": "Fruits",
+    "verified": false
+  },
+  {
+    "id": 1,
+    "name_en": "Potato",
+    "name_ol": "ᱟᱞᱩ (Alu)",
+    "name_hi": "आलू",
+    "image": "🥔",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 2,
+    "name_en": "Tomato",
+    "name_ol": "ᱴᱚᱢᱟᱴᱚ (Tomato)",
+    "name_hi": "टमाटर",
+    "image": "🍅",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 3,
+    "name_en": "Onion",
+    "name_ol": "ᱯᱤᱭᱟᱡ (Piyaj)",
+    "name_hi": "प्याज",
+    "image": "🧅",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 4,
+    "name_en": "Carrot",
+    "name_ol": "ᱠᱟᱨᱚᱴ (Karot)",
+    "name_hi": "गाजर",
+    "image": "🥕",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 5,
+    "name_en": "Cabbage",
+    "name_ol": "ᱠᱮᱵᱮᱡ (Kebej)",
+    "name_hi": "पत्तागोभी",
+    "image": "🥬",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 6,
+    "name_en": "Cauliflower",
+    "name_ol": "ᱠᱚᱞᱤᱯᱷᱞᱟᱣᱚᱨ (Koliflawar)",
+    "name_hi": "फूलगोभी",
+    "image": "🥦",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 7,
+    "name_en": "Spinach",
+    "name_ol": "ᱥᱯᱤᱱᱟᱪ (Spinach)",
+    "name_hi": "पालक",
+    "image": "🥬",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 8,
+    "name_en": "Brinjal",
+    "name_ol": "ᱵᱨᱤᱱᱡᱟᱞ (Brinjal)",
+    "name_hi": "बैंगन",
+    "image": "🍆",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 9,
+    "name_en": "Pumpkin",
+    "name_ol": "ᱯᱟᱢᱯᱠᱤᱱ (Pumpkin)",
+    "name_hi": "कद्दू",
+    "image": "🎃",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 10,
+    "name_en": "Radish",
+    "name_ol": "ᱨᱟᱫᱤᱥ (Radish)",
+    "name_hi": "मूली",
+    "image": "🥕",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 11,
+    "name_en": "Cucumber",
+    "name_ol": "ᱠᱩᱠᱩᱢᱵᱟᱨ (Cucumber)",
+    "name_hi": "खीरा",
+    "image": "🥒",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 12,
+    "name_en": "Peas",
+    "name_ol": "ᱯᱤᱥ (Peas)",
+    "name_hi": "मटर",
+    "image": "🫛",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 13,
+    "name_en": "Garlic",
+    "name_ol": "ᱜᱟᱨᱞᱤᱠ (Garlik)",
+    "name_hi": "लहसुन",
+    "image": "🧄",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 14,
+    "name_en": "Ginger",
+    "name_ol": "ᱡᱤᱱᱡᱟᱨ (Jinjar)",
+    "name_hi": "अदरक",
+    "image": "🫚",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 15,
+    "name_en": "Chilli",
+    "name_ol": "ᱪᱤᱞᱤ (Chili)",
+    "name_hi": "मिर्च",
+    "image": "🌶️",
+    "category": "Vegetables",
+    "verified": false
+  },
+  {
+    "id": 1,
+    "name_en": "Dog",
+    "name_ol": "ᱠᱩᱠᱩᱨ (Kukur)",
+    "name_hi": "कुत्ता",
+    "image": "🐶",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 2,
+    "name_en": "Cat",
+    "name_ol": "ᱵᱤᱞᱟᱹᱭ (Bilai)",
+    "name_hi": "बिल्ली",
+    "image": "🐱",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 3,
+    "name_en": "Cow",
+    "name_ol": "ᱜᱟᱭ (Gai)",
+    "name_hi": "गाय",
+    "image": "🐄",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 4,
+    "name_en": "Tiger",
+    "name_ol": "ᱴᱟᱭᱜᱚᱨ (Taigor)",
+    "name_hi": "बाघ",
+    "image": "🐅",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 5,
+    "name_en": "Lion",
+    "name_ol": "ᱞᱟᱭᱚᱱ (Layon)",
+    "name_hi": "शेर",
+    "image": "🦁",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 6,
+    "name_en": "Elephant",
+    "name_ol": "ᱮᱞᱮᱯᱷᱮᱱᱴ (Elephant)",
+    "name_hi": "हाथी",
+    "image": "🐘",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 7,
+    "name_en": "Horse",
+    "name_ol": "ᱦᱚᱨᱥ (Hors)",
+    "name_hi": "घोड़ा",
+    "image": "🐎",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 8,
+    "name_en": "Goat",
+    "name_ol": "ᱜᱚᱴ (Got)",
+    "name_hi": "बकरी",
+    "image": "🐐",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 9,
+    "name_en": "Sheep",
+    "name_ol": "ᱥᱤップ (Sip)",
+    "name_hi": "भेड़",
+    "image": "🐑",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 10,
+    "name_en": "Monkey",
+    "name_ol": "ᱢᱚᱱᱠᱤ (Monki)",
+    "name_hi": "बंदर",
+    "image": "🐒",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 11,
+    "name_en": "Bear",
+    "name_ol": "ᱵᱮᱟᱨ (Bear)",
+    "name_hi": "भालू",
+    "image": "🐻",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 12,
+    "name_en": "Deer",
+    "name_ol": "ᱰᱤᱭᱟᱨ (Diyar)",
+    "name_hi": "हिरण",
+    "image": "🦌",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 13,
+    "name_en": "Fox",
+    "name_ol": "ᱯᱷᱚᱠᱥ (Phoks)",
+    "name_hi": "लोमड़ी",
+    "image": "🦊",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 14,
+    "name_en": "Wolf",
+    "name_ol": "ᱣᱚᱞᱯ (Wolp)",
+    "name_hi": "भेड़िया",
+    "image": "🐺",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 15,
+    "name_en": "Camel",
+    "name_ol": "ᱠᱟᱢᱮᱞ (Kamel)",
+    "name_hi": "ऊंट",
+    "image": "🐫",
+    "category": "Animals",
+    "verified": false
+  },
+  {
+    "id": 1,
+    "name_en": "Parrot",
+    "name_ol": "ᱥᱩᱜᱟ (Suga)",
+    "name_hi": "तोता",
+    "image": "🦜",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 2,
+    "name_en": "Crow",
+    "name_ol": "ᱠᱟᱣᱟ (Kawa)",
+    "name_hi": "कौवा",
+    "image": "🐦",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 3,
+    "name_en": "Peacock",
+    "name_ol": "ᱢᱚᱨ (Mor)",
+    "name_hi": "मोर",
+    "image": "🦚",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 4,
+    "name_en": "Sparrow",
+    "name_ol": "ᱥᱯᱮᱨᱚ (Spero)",
+    "name_hi": "गौरैया",
+    "image": "🐦",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 5,
+    "name_en": "Pigeon",
+    "name_ol": "ᱯᱤᱡᱚᱱ (Pijon)",
+    "name_hi": "कबूतर",
+    "image": "🕊️",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 6,
+    "name_en": "Eagle",
+    "name_ol": "ᱤᱜᱞ (Igl)",
+    "name_hi": "गरुड़",
+    "image": "🦅",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 7,
+    "name_en": "Owl",
+    "name_ol": "ᱚᱣᱞ (Owl)",
+    "name_hi": "उल्लू",
+    "image": "🦉",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 8,
+    "name_en": "Duck",
+    "name_ol": "ᱰᱟᱠ (Dak)",
+    "name_hi": "बतख",
+    "image": "🦆",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 9,
+    "name_en": "Hen",
+    "name_ol": "ᱦᱮᱱ (Hen)",
+    "name_hi": "मुर्गी",
+    "image": "🐔",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 10,
+    "name_en": "Cock",
+    "name_ol": "ᱠᱚᱠ (Kok)",
+    "name_hi": "मुर्गा",
+    "image": "🐓",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 11,
+    "name_en": "Swan",
+    "name_ol": "ᱥᱣᱟᱱ (Swan)",
+    "name_hi": "हंस",
+    "image": "🦢",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 12,
+    "name_en": "Falcon",
+    "name_ol": "ᱯᱷᱟᱞᱠᱚᱱ (Phalkon)",
+    "name_hi": "बाज",
+    "image": "🦅",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 13,
+    "name_en": "Kingfisher",
+    "name_ol": "ᱠᱤᱝᱜᱯᱤᱥᱟᱨ (Kingfisar)",
+    "name_hi": "किंगफिशर",
+    "image": "🐦",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 14,
+    "name_en": "Woodpecker",
+    "name_ol": "ᱣᱩᱰᱯᱮᱠᱟᱨ (Woodpekar)",
+    "name_hi": "कठफोड़वा",
+    "image": "🐦",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 15,
+    "name_en": "Partridge",
+    "name_ol": "ᱯᱟᱨᱴᱨᱤᱡ (Partrij)",
+    "name_hi": "तीतर",
+    "image": "🐦",
+    "category": "Birds",
+    "verified": false
+  },
+  {
+    "id": 1,
+    "name_en": "Rose",
+    "name_ol": "ᱨᱳᱥ (Ros)",
+    "name_hi": "गुलाब",
+    "image": "🌹",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 2,
+    "name_en": "Lotus",
+    "name_ol": "ᱠᱚᱢᱚᱞ (Komol)",
+    "name_hi": "कमल",
+    "image": "🪷",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 3,
+    "name_en": "Sunflower",
+    "name_ol": "ᱥᱩᱨᱡᱚᱢᱩᱠᱷᱤ (Surjomukhi)",
+    "name_hi": "सूरजमुखी",
+    "image": "🌻",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 4,
+    "name_en": "Jasmine",
+    "name_ol": "ᱡᱟᱥᱢᱤᱱ (Jasmin)",
+    "name_hi": "चमेली",
+    "image": "🌼",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 5,
+    "name_en": "Marigold",
+    "name_ol": "ᱢᱟᱨᱤᱜᱚᱞᱰ (Marigold)",
+    "name_hi": "गेंदा",
+    "image": "🌼",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 6,
+    "name_en": "Lily",
+    "name_ol": "ᱞᱤᱞᱤ (Lili)",
+    "name_hi": "कुमुदिनी",
+    "image": "🌸",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 7,
+    "name_en": "Tulip",
+    "name_ol": "ᱴᱩᱞᱤᱯ (Tulip)",
+    "name_hi": "ट्यूलिप",
+    "image": "🌷",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 8,
+    "name_en": "Daisy",
+    "name_ol": "ᱰᱮᱡᱤ (Deji)",
+    "name_hi": "गुलबहार",
+    "image": "🌼",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 9,
+    "name_en": "Hibiscus",
+    "name_ol": "ᱦᱤᱵᱤᱥᱠᱟᱥ (Hibiskas)",
+    "name_hi": "गुड़हल",
+    "image": "🌺",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 10,
+    "name_en": "Orchid",
+    "name_ol": "ᱚᱨᱠᱤᱰ (Orkid)",
+    "name_hi": "ऑर्किड",
+    "image": "🌸",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 11,
+    "name_en": "Lavender",
+    "name_ol": "ᱞᱟᱣᱮᱱᱰᱟᱨ (Lavendar)",
+    "name_hi": "लैवेंडर",
+    "image": "💐",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 12,
+    "name_en": "Bluebell",
+    "name_ol": "ᱵᱞᱩᱵᱮᱞ (Bluebel)",
+    "name_hi": "ब्लूबेल",
+    "image": "🔵",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 13,
+    "name_en": "Poppy",
+    "name_ol": "ᱯᱚᱯᱤ (Popi)",
+    "name_hi": "पोस्ता",
+    "image": "🌺",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 14,
+    "name_en": "Magnolia",
+    "name_ol": "ᱢᱟᱜᱱᱚᱞᱤᱟ (Magnolia)",
+    "name_hi": "मैगनोलिया",
+    "image": "🌸",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 15,
+    "name_en": "Petunia",
+    "name_ol": "ᱯᱮᱴᱩᱱᱤᱟ (Petunia)",
+    "name_hi": "पेटूनिया",
+    "image": "🌸",
+    "category": "Flowers",
+    "verified": false
+  },
+  {
+    "id": 1,
+    "name_en": "Neem",
+    "name_ol": "ᱱᱤᱢ",
+    "name_hi": "नीम",
+    "image": "🌳",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 2,
+    "name_en": "Banyan",
+    "name_ol": "ᱵᱟᱨ",
+    "name_hi": "बरगद",
+    "image": "🌳",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 3,
+    "name_en": "Peepal",
+    "name_ol": "ᱯᱤᱯᱟᱞ",
+    "name_hi": "पीपल",
+    "image": "🌳",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 4,
+    "name_en": "Mango Tree",
+    "name_ol": "ᱟᱢ ᱫᱟᱨᱮ",
+    "name_hi": "आम का पेड़",
+    "image": "🥭",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 5,
+    "name_en": "Coconut",
+    "name_ol": "ᱠᱚᱠᱚᱱᱟᱴ",
+    "name_hi": "नारियल",
+    "image": "🥥",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 6,
+    "name_en": "Palm",
+    "name_ol": "ᱯᱟᱢ",
+    "name_hi": "खजूर",
+    "image": "🌴",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 7,
+    "name_en": "Teak",
+    "name_ol": "ᱴᱤᱠ",
+    "name_hi": "सागौन",
+    "image": "🌳",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 8,
+    "name_en": "Sal",
+    "name_ol": "ᱥᱟᱞ",
+    "name_hi": "साल",
+    "image": "🌳",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 9,
+    "name_en": "Eucalyptus",
+    "name_ol": "ᱭᱩᱠᱟᱞᱤᱯᱴᱟᱥ",
+    "name_hi": "यूकेलिप्टस",
+    "image": "🌳",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 10,
+    "name_en": "Ashoka",
+    "name_ol": "ᱟᱥᱚᱠᱟ",
+    "name_hi": "अशोक",
+    "image": "🌳",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 11,
+    "name_en": "Guava Tree",
+    "name_ol": "ᱜᱩᱣᱟ ᱫᱟᱨᱮ",
+    "name_hi": "अमरूद का पेड़",
+    "image": "🍐",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 12,
+    "name_en": "Apple Tree",
+    "name_ol": "ᱟᱯᱞ ᱫᱟᱨᱮ",
+    "name_hi": "सेब का पेड़",
+    "image": "🍎",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 13,
+    "name_en": "Orange Tree",
+    "name_ol": "ᱚᱨᱟᱱᱡ ᱫᱟᱨᱮ",
+    "name_hi": "संतरा का पेड़",
+    "image": "🍊",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 14,
+    "name_en": "Rubber Tree",
+    "name_ol": "ᱨᱟᱵᱟᱨ ᱫᱟᱨᱮ",
+    "name_hi": "रबर का पेड़",
+    "image": "🌳",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 15,
+    "name_en": "Bamboo",
+    "name_ol": "ᱵᱟᱢᱵᱩ",
+    "name_hi": "बांस",
+    "image": "🎋",
+    "category": "Trees",
+    "verified": false
+  },
+  {
+    "id": 1,
+    "name_en": "Ant",
+    "name_ol": "ᱢᱤᱨᱤ (Miri)",
+    "name_hi": "चींटी",
+    "image": "🐜",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 2,
+    "name_en": "Bee",
+    "name_ol": "ᱢᱟᱹᱪᱤ (Machi)",
+    "name_hi": "मधुमक्खी",
+    "image": "🐝",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 3,
+    "name_en": "Butterfly",
+    "name_ol": "ᱯᱤᱞᱤᱛ (Pilit)",
+    "name_hi": "तितली",
+    "image": "🦋",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 4,
+    "name_en": "Mosquito",
+    "name_ol": "ᱢᱚᱥᱠᱤᱴᱚ (Mosquito)",
+    "name_hi": "मच्छर",
+    "image": "🦟",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 5,
+    "name_en": "Housefly",
+    "name_ol": "ᱯᱷᱞᱟᱭ (Phlay)",
+    "name_hi": "मक्खी",
+    "image": "🪰",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 6,
+    "name_en": "Cockroach",
+    "name_ol": "ᱠᱚᱠᱨᱚᱪ (Kokroch)",
+    "name_hi": "तिलचट्टा",
+    "image": "🪳",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 7,
+    "name_en": "Grasshopper",
+    "name_ol": "ᱜᱨᱟᱥᱦᱚᱯᱟᱨ (Grashophar)",
+    "name_hi": "टिड्डा",
+    "image": "🦗",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 8,
+    "name_en": "Dragonfly",
+    "name_ol": "ᱰᱨᱟᱜᱚᱱᱯᱷᱞᱟᱭ (Dragonphlay)",
+    "name_hi": "व्याध पतंग",
+    "image": "🪶",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 9,
+    "name_en": "Termite",
+    "name_ol": "ᱴᱟᱨᱢᱟᱭᱤᱴ (Tarmayit)",
+    "name_hi": "दीमक",
+    "image": "🐜",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 10,
+    "name_en": "Beetle",
+    "name_ol": "ᱵᱤᱴᱞ (Bitol)",
+    "name_hi": "भृंग",
+    "image": "🪲",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 11,
+    "name_en": "Wasp",
+    "name_ol": "ᱣᱟᱥᱯ (Wasp)",
+    "name_hi": "बर्रा",
+    "image": "🐝",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 12,
+    "name_en": "Moth",
+    "name_ol": "ᱢᱚᱛᱷ (Moth)",
+    "name_hi": "पतंगा",
+    "image": "🦋",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 13,
+    "name_en": "Firefly",
+    "name_ol": "ᱯᱟᱭᱟᱨᱯᱷᱞᱟᱭ (Payarphlay)",
+    "name_hi": "जुगनू",
+    "image": "✨",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 14,
+    "name_en": "Flea",
+    "name_ol": "ᱯᱷᱞᱤ (Phli)",
+    "name_hi": "पिस्सू",
+    "image": "🐜",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 15,
+    "name_en": "Louse",
+    "name_ol": "ᱞᱟᱣᱥ (Lous)",
+    "name_hi": "जूं",
+    "image": "🐜",
+    "category": "Insects",
+    "verified": false
+  },
+  {
+    "id": 1,
+    "name_en": "Fish",
+    "name_ol": "ᱢᱟᱪᱷ (Machh)",
+    "name_hi": "मछली",
+    "image": "🐟",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 2,
+    "name_en": "Shark",
+    "name_ol": "ᱥᱟᱨᱠ (Shark)",
+    "name_hi": "शार्क",
+    "image": "🦈",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 3,
+    "name_en": "Dolphin",
+    "name_ol": "ᱰᱚᱞᱯᱷᱤᱱ (Dolphin)",
+    "name_hi": "डॉल्फिन",
+    "image": "🐬",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 4,
+    "name_en": "Whale",
+    "name_ol": "ᱣᱷᱮᱞ (Whale)",
+    "name_hi": "व्हेल",
+    "image": "🐋",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 5,
+    "name_en": "Octopus",
+    "name_ol": "ᱚᱠᱴᱚᱯᱩᱥ (Octopus)",
+    "name_hi": "ऑक्टोपस",
+    "image": "🐙",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 6,
+    "name_en": "Crab",
+    "name_ol": "ᱠᱨᱟᱵ (Krab)",
+    "name_hi": "केकड़ा",
+    "image": "🦀",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 7,
+    "name_en": "Lobster",
+    "name_ol": "ᱞᱚᱵᱥᱴᱟᱨ (Lobstar)",
+    "name_hi": "झींगा",
+    "image": "🦞",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 8,
+    "name_en": "Starfish",
+    "name_ol": "ᱥᱴᱟᱨᱯᱷᱤᱥ (Starfish)",
+    "name_hi": "स्टारफिश",
+    "image": "⭐",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 9,
+    "name_en": "Seahorse",
+    "name_ol": "ᱥᱤᱦᱚᱨᱥ (Seahorse)",
+    "name_hi": "समुद्री घोड़ा",
+    "image": "🐠",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 10,
+    "name_en": "Jellyfish",
+    "name_ol": "ᱡᱮᱞᱤᱯᱷᱤᱥ (Jellyfish)",
+    "name_hi": "जेलीफिश",
+    "image": "🪼",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 11,
+    "name_en": "Squid",
+    "name_ol": "ᱥᱠᱩᱤᱰ (Squid)",
+    "name_hi": "स्क्विड",
+    "image": "🦑",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 12,
+    "name_en": "Seal",
+    "name_ol": "ᱥᱤᱞ (Seal)",
+    "name_hi": "सील",
+    "image": "🦭",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 13,
+    "name_en": "Otter",
+    "name_ol": "ᱚᱴᱟᱨ (Otar)",
+    "name_hi": "ऊदबिलाव",
+    "image": "🦦",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 14,
+    "name_en": "Clam",
+    "name_ol": "ᱠᱞᱟᱢ (Clam)",
+    "name_hi": "शंख",
+    "image": "🦪",
+    "category": "Sea Animals",
+    "verified": false
+  },
+  {
+    "id": 15,
+    "name_en": "Coral",
+    "name_ol": "ᱠᱚᱨᱟᱞ (Coral)",
+    "name_hi": "मूंगा",
+    "image": "🪸",
+    "category": "Sea Animals",
+    "verified": false
+  }
+]
